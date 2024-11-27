@@ -1,0 +1,21 @@
+Algoritmo "Número Feliz"
+
+ED: numero,N1,N2 numeroentrada, numerosaida explicacao inteiro
+true, false caractere
+
+Inicio:
+Escrever:("Entrada:")
+Ler(NumeroEntrada)
+Escrever:("Saida:")
+Ler(NumeroSaida)
+Escrever:("Explicação:")
+Ler(explicacao)
+
+Para i de 1 ate 50
+Escrever("n1 (+) n2 = ") 
+
+
+Se numerosaida = True
+Escrever("True")
+Se numerosaida = False 
+Escrever("False")
