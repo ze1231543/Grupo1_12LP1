@@ -1,0 +1,3 @@
+Diga qual o comando git para remover um ficheiro da área de staging enquanto mantém as alterações no seu diretório de trabalho.
+
+git unstage "file"
