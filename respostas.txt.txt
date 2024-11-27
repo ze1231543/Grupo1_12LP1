@@ -1,5 +1,9 @@
-Descreva o que é o Stashing:
+G. Descreva o que é o Stashing:
 
 Stashing é a zona onde os ficheiros do nosso repositório podem estar. 
 
 Existe a Working directory que é onde os ficheiros novos/alterados estão localizados e existe a Commit Index que é onde os ficheiros que estão prontos para fazer o commit estão localizados.
+
+J. Diga o que faz o comando git clean -f -d
+
+Esse comando limpa as alterações efetuadas aos ficheiros e pastas na branch current.
